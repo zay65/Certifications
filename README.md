@@ -1,6 +1,11 @@
 # Certifications
 Certifications I have accumulated in my career
 
-[CompTIA Security+ certificate](https://github.com/user-attachments/files/24457116/CompTIA.Security%2B.ce.certificate.pdf)
+[CompTIA Security+](https://github.com/zay65/Certifications/blob/f919e5faa831db9c1aa900d08794056b7de9f5f7/CompTIA%20Security%2B.jpg)
 
-[Microsoft Certified: Microsoft 365 Fundamentals (MS-900)](https://github.com/zay65/Certifications/blob/b2ee6b4ad0d68b023ce5cfdc85444eb1e77ad5a4/Microsoft%20365%20Certified%20Fundamentals%20(MS-900).pdf)
+![image alt](https://github.com/zay65/Certifications/blob/f919e5faa831db9c1aa900d08794056b7de9f5f7/CompTIA%20Security%2B.jpg)
+
+[Microsoft Certified: Microsoft 365 Fundamentals (MS-900)](https://github.com/zay65/Certifications/blob/f919e5faa831db9c1aa900d08794056b7de9f5f7/Microsoft%20365%20Certified%20Fundamentals%20(MS-900).jpg)
+
+![image alt](https://github.com/zay65/Certifications/blob/f919e5faa831db9c1aa900d08794056b7de9f5f7/Microsoft%20365%20Certified%20Fundamentals%20(MS-900).jpg)
+
